@@ -1,1 +1,1 @@
-# Temperature--mean
+# Temperature-mean
